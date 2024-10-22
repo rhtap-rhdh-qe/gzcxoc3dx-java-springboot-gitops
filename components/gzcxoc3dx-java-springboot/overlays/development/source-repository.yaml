@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gzcxoc3dx-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gzcxoc3dx-java-springboot
